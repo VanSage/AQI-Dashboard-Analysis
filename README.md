@@ -4,8 +4,8 @@ An interactive Air Quality Index (AQI) Dashboard developed using Power BI to ana
 
 ## Features
 
-* AQI trend analysis              
-* Interactive visualizations and charts
+* AQI trend analysis                  
+* Interactive visualizations and charts   
 * Pollution level monitoring
 * Data-driven insights and reporting
 
